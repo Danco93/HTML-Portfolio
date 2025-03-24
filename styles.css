@@ -1,0 +1,16 @@
+img.selfie {
+  width: 400px;
+  height: 400px;
+  display: block;
+  margin: auto;
+}
+.headLine,
+.subHeadLine {
+  text-align: center;
+}
+.projects {
+  text-align: center;
+}
+.misc {
+  text-align: center;
+}
